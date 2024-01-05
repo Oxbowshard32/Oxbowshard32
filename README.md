@@ -5,7 +5,7 @@ I am a Software Engineer Major, with skills in Full-Stack Web Devlopment. I am l
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs,py,ruby)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind)](https://skillicons.dev) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,idea,visualstudio,vscode,azure,dotnet)](https://skillicons.dev)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,azure,dotnet)](https://skillicons.dev)
 <br/>
 
 ### Socials
