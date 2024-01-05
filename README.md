@@ -11,7 +11,7 @@ I am a Software Engineer Major, with skills in Full-Stack Web Devlopment. I am l
 ### Socials
 
 <div id="badges">
-  <a href="www.linkedin.com/in/adrian-arteaga-69624323b">
+  <a href="https://www.linkedin.com/in/adrian-arteaga-69624323b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
